@@ -1,91 +1,91 @@
-alias,topic,total_score
-col71,Career Center,146.0
-col87,Opportunities for career networking,151.0
-col100,Focusing on real-world impact and professional advancement,151.0
-col58,Strong support systems,153.0
-col57,High academic standards,155.0
-col28,Veritus Imperial University's overall academic reputation,161.0
-col61,Clear and timely feedback,165.0
-col38,"Online asynchronous learning opportunities (flexible, self-paced online classes)",167.0
-col13,"Flexible learning Options (e.g., online, evening, hybrid)",168.0
-col93,Networking,168.0
-col104,Aligning with the evolving challenges and opportunities of the future workforce,168.0
-col94,Clearer alignment between academic programs and professional goals,169.0
-col98,Preparing students to be ethical leaders in a complex world,169.0
-col89,Career advising,170.0
-col75,Financial Aid,171.0
-col19,Strong Veritus Imperial University reputation and alumni network,172.0
-col86,Expanded personalized career guidance tailored to student goals,172.0
-col14,Career-focused programs aligned with workforce needs,174.0
-col20,Strong faculty with industry experience,174.0
-col52,Career-focused courses aligned with industry needs (action research project & internships),174.0
-col97,Expanding flexible pathways for adult and nontraditional learners,175.0
-col46,Ease of access to university technology systems,176.0
-col54,"Courses in high-demand fields (eg., technology, public health, business ethics)",176.0
-col15,Competitive tuition and robust financial aid support,177.0
-col88,Internal/External Career Mentoring,177.0
-col77,Veritus Imperial University Libraries,180.0
-col76,IT Help Desk,181.0
-col59,"Advanced, challenge-based assignments",182.0
-col101,Supporting lifelong learning and career reinvention,182.0
-col43,Access for students with disabilities,184.0
-col34,Courses that develop leadership and communication skills,185.0
-col60,Transparent grading,186.0
-col92,Enhanced career preparation through internships,187.0
-col69,Stronger collaboration between Augustin College and other Veritus Imperial University departments,190.0
-col91,Opportunities for personal skill development,190.0
-col68,Closer integration of Veritus Imperial University services into the Augustin College student experience,195.0
-col17,Personalized support and a student-centered community,197.0
-col90,Opportunities to develop leadership skills,197.0
-col103,"Developing student's ability to lead, serve, and transform society",197.0
-col99,"Promoting diversity, inclusion, and equity across the student experience",198.0
-col32,Small class sizes and individualized attention,199.0
-col45,Clear and simple process for requesting academic accommodations,199.0
-col84,Increased outreach from advising,199.0
-col102,Fostering a strong sense of community and personal connection,199.0
-col39,Access to a faculty mentor outside of class,201.0
-col41,Faculty support for career and professional development,205.0
-col67,"Better visibility and accessibility of university services (e.g., Career Center, Library)",205.0
-col72,The Tutoring and Exam Center,205.0
-col56,Active engagement in the classroom/Zoom class meetings,207.0
-col79,Veteran Support,208.0
-col55,Flexibility to take courses across other Veritus Imperial University programs,215.0
-col74,Veritus Imperial University Accessibility Services,216.0
-col33,"Experiential learning opportunities (e.g., internships, client projects)",219.0
-col80, Student Wellness Center,219.0
-col96,"Upholding values such as service, justice, and reflection",219.0
-col21,Working professionals seeking to advance in their current field,222.0
-col85,More streamlined and timely communication from Augustin College offices,222.0
-col63,More events and opportunities that foster a sense of community,223.0
-col50,Increased opportunities to connect online and in-person students,225.0
-col16,Mission-driven education rooted in purpose and service,226.0
-col35,In-person learning opportunities,233.0
-col82,Graduate Student Life Office,233.0
-col37,Online synchronous learning opportunities (live online classes),235.0
-col83,International Students Office,235.0
-col47,"Events that bring students and faculty together (e.g. speaker series, brown bag lunches, etc.)",236.0
-col81,Undergrad Student Life Office,242.0
-col18,Accelerated or modular degree completion pathways,244.0
-col29,Augustin College's unique identity and reputation,244.0
-col44,Faculty trained in universal course design,250.0
-col40,Structured mentorship programs,253.0
-col64,Additional leadership and volunteer opportunities within Augustin College,255.0
-col36,Daytime course offerings,257.0
-col53,Research-focused courses aligned with industry trends,257.0
-col48,Peer mentoring,264.0
-col30,Reputation and credibility of individual programs,265.0
-col65,More spaces (common areas for eating or studying) to support personal development beyond coursework,275.0
-col78, Gym & Recreation Center,277.0
-col42,Access to faculty research opportunities outside of class,282.0
-col49,Study groups,282.0
-col66,More community service opportunties,297.0
-col70, Faith Ministry,297.0
-col31,Academic rigor and challenge of the curriculum,300.0
-col22,Adult learners returning to college after time away,316.0
-col73,Dining Hall,318.0
-col51,On campus housing options,339.0
-col24,Career changers pursuing graduate credentials,390.0
-col25,First-generation college students,433.0
-col26,Students from underrepresented or historically marginalized backgrounds,467.0
-col23,Recent high school graduates looking for flexible pathways,492.0
-col27,International students,620.0
+,mean_score,median_score,response_count,cluster,theme,topic
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Career Center,1.5051546391752577,1.0,97,3,Administration/Other,important closer integration veritus imperial university
+How important are the following priorities for preparing students for life after Augustin College? - Opportunities for career networking,1.5252525252525253,1.0,99,2,Student Outcomes,important following priorities preparing students life
+How important are the following features for ensuring academic excellence at Augustin College? - Strong support systems,1.53,1.0,100,6,Teaching Experience,important following features ensuring academic excellence
+How important are the following features for ensuring academic excellence at Augustin College? - High academic standards,1.5346534653465347,1.0,101,6,Teaching Experience,important following features ensuring academic excellence
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Focusing on real-world impact and professional advancement,1.5408163265306123,1.0,98,5,Administration/Other,important following ideas shaping future mission
+"How important are the following aspects for promoting Augustin College to future students?* - Flexible learning Options (e.g., online, evening, hybrid)",1.5849056603773586,1.0,106,8,Student Outcomes,important following aspects promoting augustin college
+How important are the following aspects for promoting Augustin College to future students?* - Strong Veritus Imperial University reputation and alumni network,1.6226415094339623,1.0,106,8,Student Outcomes,important following aspects promoting augustin college
+How important are the following features for ensuring academic excellence at Augustin College? - Clear and timely feedback,1.6336633663366336,2.0,101,6,Teaching Experience,important following features ensuring academic excellence
+How important are the following aspects for promoting Augustin College to future students?* - Strong faculty with industry experience,1.6415094339622642,1.0,106,8,Student Outcomes,important following aspects promoting augustin college
+How important are the following aspects for promoting Augustin College to future students?* - Career-focused programs aligned with workforce needs,1.6415094339622642,1.0,106,8,Student Outcomes,important following aspects promoting augustin college
+Which do you believe are most important to emphasize in order to positively influence prospective students to apply to Augustin College? Please rank the following factors by dragging the selection up or down in your preferred rank order where number 1 is the most important factor to emphasize and 4 is the lowest thing to emphasize. - Veritus Imperial University's overall academic reputation,1.6597938144329898,1.0,97,0,Administration/Other,believe important emphasize order positively influence
+How important are the following aspects for promoting Augustin College to future students?* - Competitive tuition and robust financial aid support,1.669811320754717,2.0,106,8,Student Outcomes,important following aspects promoting augustin college
+How important are the following priorities for preparing students for life after Augustin College? - Networking,1.696969696969697,2.0,99,2,Student Outcomes,important following priorities preparing students life
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Aligning with the evolving challenges and opportunities of the future workforce,1.7142857142857142,2.0,98,5,Administration/Other,important following ideas shaping future mission
+How important are the following priorities for preparing students for life after Augustin College? - Career advising,1.7171717171717171,2.0,99,2,Student Outcomes,important following priorities preparing students life
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Preparing students to be ethical leaders in a complex world,1.7244897959183674,2.0,98,5,Administration/Other,important following ideas shaping future mission
+How important are the following opportunities for ensuring academic accessibility and inclusion at Augustin College? - Ease of access to university technology systems,1.7254901960784315,2.0,102,6,Teaching Experience,important following opportunities ensuring academic accessibility
+"As Augustin College expands its academic offerings, how important are the following priorities? - Career-focused courses aligned with industry needs (action research project & internships)",1.74,2.0,100,2,Student Outcomes,augustin college expands academic offerings important
+How important are the following priorities for preparing students for life after Augustin College? - Clearer alignment between academic programs and professional goals,1.7422680412371134,2.0,97,2,Student Outcomes,important following priorities preparing students life
+"As Augustin College expands its academic offerings, how important are the following priorities? - Courses in high-demand fields (eg., technology, public health, business ethics)",1.7425742574257426,2.0,101,2,Student Outcomes,augustin college expands academic offerings important
+How important are the following enhancements to Augustin College student services? - Expanded personalized career guidance tailored to student goals,1.7551020408163265,2.0,98,8,Student Outcomes,important following enhancements augustin college student
+"How important are the following aspects to the future learning experience at Augustin College? - Online asynchronous learning opportunities (flexible, self-paced online classes)",1.7578947368421052,2.0,95,1,Teaching Experience,important following aspects future learning experience
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Financial Aid,1.78125,2.0,96,3,Administration/Other,important closer integration veritus imperial university
+How important are the following priorities for preparing students for life after Augustin College? - Internal/External Career Mentoring,1.7878787878787878,2.0,99,2,Student Outcomes,important following priorities preparing students life
+"How important are the following features for ensuring academic excellence at Augustin College? - Advanced, challenge-based assignments",1.801980198019802,2.0,101,6,Teaching Experience,important following features ensuring academic excellence
+How important are the following opportunities for ensuring academic accessibility and inclusion at Augustin College? - Access for students with disabilities,1.803921568627451,2.0,102,6,Teaching Experience,important following opportunities ensuring academic accessibility
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Expanding flexible pathways for adult and nontraditional learners,1.8041237113402062,2.0,97,5,Administration/Other,important following ideas shaping future mission
+How important are the following aspects to the future learning experience at Augustin College? - Courses that develop leadership and communication skills,1.8316831683168318,2.0,101,1,Teaching Experience,important following aspects future learning experience
+How important are the following features for ensuring academic excellence at Augustin College? - Transparent grading,1.8415841584158417,2.0,101,6,Teaching Experience,important following features ensuring academic excellence
+How important is a closer integration of Veritus Imperial University services within Augustin College? - IT Help Desk,1.846938775510204,2.0,98,3,Administration/Other,important closer integration veritus imperial university
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Supporting lifelong learning and career reinvention,1.8571428571428572,2.0,98,5,Administration/Other,important following ideas shaping future mission
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Veritus Imperial University Libraries,1.875,2.0,96,3,Administration/Other,important closer integration veritus imperial university
+How important are the following aspects for promoting Augustin College to future students?* - Personalized support and a student-centered community,1.8761904761904762,2.0,105,8,Student Outcomes,important following aspects promoting augustin college
+How important are the following priorities for preparing students for life after Augustin College? - Enhanced career preparation through internships,1.8888888888888888,2.0,99,2,Student Outcomes,important following priorities preparing students life
+How important are the following priorities for preparing students for life after Augustin College? - Opportunities for personal skill development,1.9191919191919191,2.0,99,2,Student Outcomes,important following priorities preparing students life
+How important are the following strategies for improving students' access to university-wide services? - Stronger collaboration between Augustin College and other Veritus Imperial University departments,1.9191919191919191,2.0,99,3,Administration/Other,important following strategies improving students access
+How important are the following aspects to the future learning experience at Augustin College? - Small class sizes and individualized attention,1.9320388349514563,2.0,103,1,Teaching Experience,important following aspects future learning experience
+How important are the following opportunities for ensuring academic accessibility and inclusion at Augustin College? - Clear and simple process for requesting academic accommodations,1.9509803921568627,2.0,102,6,Teaching Experience,important following opportunities ensuring academic accessibility
+How important are the following strategies for improving students' access to university-wide services? - Closer integration of Veritus Imperial University services into the Augustin College student experience,1.9696969696969697,2.0,99,3,Administration/Other,important following strategies improving students access
+How important are the following aspects of faculty mentoring to the academic experience at Augustin College? - Access to a faculty mentor outside of class,1.9705882352941178,2.0,102,1,Teaching Experience,important following aspects faculty mentoring academic
+How important are the following priorities for preparing students for life after Augustin College? - Opportunities to develop leadership skills,1.9898989898989898,2.0,99,2,Student Outcomes,important following priorities preparing students life
+How important are the following aspects of faculty mentoring to the academic experience at Augustin College? - Faculty support for career and professional development,2.0098039215686274,2.0,102,1,Teaching Experience,important following aspects faculty mentoring academic
+How important are the following enhancements to Augustin College student services? - Increased outreach from advising,2.01010101010101,2.0,99,8,Student Outcomes,important following enhancements augustin college student
+"How important should each of the following ideas be in shaping the future mission of Augustin College? - Developing student's ability to lead, serve, and transform society",2.010204081632653,2.0,98,5,Administration/Other,important following ideas shaping future mission
+"How important should each of the following ideas be in shaping the future mission of Augustin College? - Promoting diversity, inclusion, and equity across the student experience",2.020408163265306,2.0,98,5,Administration/Other,important following ideas shaping future mission
+How important should each of the following ideas be in shaping the future mission of Augustin College? - Fostering a strong sense of community and personal connection,2.0306122448979593,2.0,98,5,Administration/Other,important following ideas shaping future mission
+"As Augustin College expands its academic offerings, how important are the following priorities? - Active engagement in the classroom/Zoom class meetings",2.0495049504950495,2.0,101,2,Student Outcomes,augustin college expands academic offerings important
+"How important are the following strategies for improving students' access to university-wide services? - Better visibility and accessibility of university services (e.g., Career Center, Library)",2.0707070707070705,2.0,99,3,Administration/Other,important following strategies improving students access
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - Working professionals seeking to advance in their current field,2.1142857142857143,1.0,105,7,Administration/Other,augustin college actively seek enroll future
+How important are the following aspects for promoting Augustin College to future students?* - Mission-driven education rooted in purpose and service,2.1320754716981134,2.0,106,8,Student Outcomes,important following aspects promoting augustin college
+"As Augustin College expands its academic offerings, how important are the following priorities? - Flexibility to take courses across other Veritus Imperial University programs",2.15,2.0,100,2,Student Outcomes,augustin college expands academic offerings important
+How important is a closer integration of Veritus Imperial University services within Augustin College? - The Tutoring and Exam Center,2.1578947368421053,2.0,95,3,Administration/Other,important closer integration veritus imperial university
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Veteran Support,2.1666666666666665,2.0,96,3,Administration/Other,important closer integration veritus imperial university
+"How important are the following aspects to the future learning experience at Augustin College? - Experiential learning opportunities (e.g., internships, client projects)",2.19,2.0,100,1,Teaching Experience,important following aspects future learning experience
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Veritus Imperial University Accessibility Services,2.2268041237113403,2.0,97,3,Administration/Other,important closer integration veritus imperial university
+How important are the following initiatives for building academic community at Augustin College? - Increased opportunities to connect online and in-person students,2.25,2.0,100,9,Community & Collaboration,important following initiatives building academic community
+How important do you believe each of the following initiatives is for enhancing students' non-academic and co-curricular engagement at Augustin College? - More events and opportunities that foster a sense of community,2.2525252525252526,2.0,99,4,Student Outcomes,important believe following initiatives enhancing students
+"How important should each of the following ideas be in shaping the future mission of Augustin College? - Upholding values such as service, justice, and reflection",2.2577319587628866,2.0,97,5,Administration/Other,important following ideas shaping future mission
+How important are the following enhancements to Augustin College student services? - More streamlined and timely communication from Augustin College offices,2.2653061224489797,2.0,98,8,Student Outcomes,important following enhancements augustin college student
+How important is a closer integration of Veritus Imperial University services within Augustin College? -  Student Wellness Center,2.28125,2.0,96,3,Administration/Other,important closer integration veritus imperial university
+How important are the following aspects for promoting Augustin College to future students?* - Accelerated or modular degree completion pathways,2.323809523809524,2.0,105,8,Student Outcomes,important following aspects promoting augustin college
+"How important are the following initiatives for building academic community at Augustin College? - Events that bring students and faculty together (e.g. speaker series, brown bag lunches, etc.)",2.3366336633663365,2.0,101,9,Community & Collaboration,important following initiatives building academic community
+How important are the following aspects to the future learning experience at Augustin College? - In-person learning opportunities,2.377551020408163,2.0,98,1,Teaching Experience,important following aspects future learning experience
+How important are the following aspects to the future learning experience at Augustin College? - Online synchronous learning opportunities (live online classes),2.3979591836734695,2.0,98,1,Teaching Experience,important following aspects future learning experience
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Graduate Student Life Office,2.4526315789473685,2.0,95,3,Administration/Other,important closer integration veritus imperial university
+How important is a closer integration of Veritus Imperial University services within Augustin College? - International Students Office,2.473684210526316,2.0,95,3,Administration/Other,important closer integration veritus imperial university
+How important are the following opportunities for ensuring academic accessibility and inclusion at Augustin College? - Faculty trained in universal course design,2.4752475247524752,2.0,101,6,Teaching Experience,important following opportunities ensuring academic accessibility
+How important are the following aspects of faculty mentoring to the academic experience at Augustin College? - Structured mentorship programs,2.504950495049505,2.0,101,1,Teaching Experience,important following aspects faculty mentoring academic
+Which do you believe are most important to emphasize in order to positively influence prospective students to apply to Augustin College? Please rank the following factors by dragging the selection up or down in your preferred rank order where number 1 is the most important factor to emphasize and 4 is the lowest thing to emphasize. - Augustin College's unique identity and reputation,2.515463917525773,2.0,97,0,Administration/Other,believe important emphasize order positively influence
+"As Augustin College expands its academic offerings, how important are the following priorities? - Research-focused courses aligned with industry trends",2.5445544554455446,3.0,101,2,Student Outcomes,augustin college expands academic offerings important
+How important do you believe each of the following initiatives is for enhancing students' non-academic and co-curricular engagement at Augustin College? - Additional leadership and volunteer opportunities within Augustin College,2.55,2.0,100,4,Student Outcomes,important believe following initiatives enhancing students
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Undergrad Student Life Office,2.574468085106383,2.5,94,3,Administration/Other,important closer integration veritus imperial university
+How important are the following initiatives for building academic community at Augustin College? - Peer mentoring,2.64,3.0,100,9,Community & Collaboration,important following initiatives building academic community
+Which do you believe are most important to emphasize in order to positively influence prospective students to apply to Augustin College? Please rank the following factors by dragging the selection up or down in your preferred rank order where number 1 is the most important factor to emphasize and 4 is the lowest thing to emphasize. - Reputation and credibility of individual programs,2.731958762886598,3.0,97,0,Administration/Other,believe important emphasize order positively influence
+How important are the following initiatives for building academic community at Augustin College? - Study groups,2.792079207920792,3.0,101,9,Community & Collaboration,important following initiatives building academic community
+How important are the following aspects of faculty mentoring to the academic experience at Augustin College? - Access to faculty research opportunities outside of class,2.792079207920792,3.0,101,1,Teaching Experience,important following aspects faculty mentoring academic
+How important do you believe each of the following initiatives is for enhancing students' non-academic and co-curricular engagement at Augustin College? - More spaces (common areas for eating or studying) to support personal development beyond coursework,2.806122448979592,3.0,98,4,Student Outcomes,important believe following initiatives enhancing students
+How important is a closer integration of Veritus Imperial University services within Augustin College? -  Gym & Recreation Center,2.8854166666666665,3.0,96,3,Administration/Other,important closer integration veritus imperial university
+How important do you believe each of the following initiatives is for enhancing students' non-academic and co-curricular engagement at Augustin College? - More community service opportunties,3.0,3.0,99,4,Student Outcomes,important believe following initiatives enhancing students
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - Adult learners returning to college after time away,3.0095238095238095,3.0,105,7,Administration/Other,augustin college actively seek enroll future
+Which do you believe are most important to emphasize in order to positively influence prospective students to apply to Augustin College? Please rank the following factors by dragging the selection up or down in your preferred rank order where number 1 is the most important factor to emphasize and 4 is the lowest thing to emphasize. - Academic rigor and challenge of the curriculum,3.0927835051546393,3.0,97,0,Administration/Other,believe important emphasize order positively influence
+How important is a closer integration of Veritus Imperial University services within Augustin College? -  Faith Ministry,3.126315789473684,3.0,95,3,Administration/Other,important closer integration veritus imperial university
+How important are the following aspects to the future learning experience at Augustin College? - Daytime course offerings,3.1728395061728394,3.0,81,1,Teaching Experience,important following aspects future learning experience
+How important is a closer integration of Veritus Imperial University services within Augustin College? - Dining Hall,3.3473684210526318,3.0,95,3,Administration/Other,important closer integration veritus imperial university
+How important are the following initiatives for building academic community at Augustin College? - On campus housing options,3.4591836734693877,3.5,98,9,Community & Collaboration,important following initiatives building academic community
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - Career changers pursuing graduate credentials,3.7142857142857144,3.0,105,7,Administration/Other,augustin college actively seek enroll future
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - First-generation college students,4.123809523809523,4.0,105,7,Administration/Other,augustin college actively seek enroll future
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - Students from underrepresented or historically marginalized backgrounds,4.447619047619048,5.0,105,7,Administration/Other,augustin college actively seek enroll future
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - Recent high school graduates looking for flexible pathways,4.685714285714286,5.0,105,7,Administration/Other,augustin college actively seek enroll future
+What should Augustin College actively seek to enroll more of in the future? Please rank the following options by dragging the selection up or down in your preferred rank order where number 1 is the most important option to seek more of and 7 is the lowest. - International students,5.904761904761905,7.0,105,7,Administration/Other,augustin college actively seek enroll future
